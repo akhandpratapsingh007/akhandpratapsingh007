@@ -6,10 +6,9 @@
 ### 🔥 About Me
 I'm a Final-year B.Tech student in Computer Science and Engineering. I specialize in Android and Web Development with a passion for building real-world industry-level projects.
 
-💡 I love building apps using **Kotlin**, **Java**, and **Jetpack**.  
+💡 I love building apps using **Kotlin**, **Java**.  
 🌐 I also develop responsive websites using **ReactJS**, **HTML**, **CSS**, and **JavaScript**.  
-🚀 I've completed several internships and live tasks with a strong focus on UI/UX and functionality.  
-📱 Notable apps: **CashControl**, **FarmEase**, **Smart Expenses**, and **DealTrack**.
+📱 Notable apps: **Smart Expenses**, and **DealTrack**.
 
 I am always open to collaborations and new opportunities that push my technical limits.
 
