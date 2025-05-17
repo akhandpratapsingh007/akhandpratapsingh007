@@ -33,8 +33,7 @@ I am always open to collaborations and new opportunities that push my technical 
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 #### 🧰 Frameworks & Tools
-- Android SDK (Jetpack, Room, SQLite, Firebase)
-- Web: ReactJS, Bootstrap
+- Android SDK (SQLite, Firebase)
 - Tools: Android Studio, Figma, Git, GitHub, VS Code
 
 ---
@@ -47,8 +46,7 @@ I am always open to collaborations and new opportunities that push my technical 
 ---
 
 ### 🤝 Looking to Collaborate On
-- Android apps (focus on UI/UX, Firebase, ML)
-- React-based frontend websites
+- Android apps (focus on UI/UX, Firebase)
 - Creative industry-level ideas and startups
 
 ---
@@ -58,7 +56,6 @@ I am always open to collaborations and new opportunities that push my technical 
 - Kotlin for beginners
 - Firebase integration
 - Building full-stack projects
-- YouTube and blogging journey
 
 ---
 
